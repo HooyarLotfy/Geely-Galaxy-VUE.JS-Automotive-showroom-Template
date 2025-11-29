@@ -81,4 +81,4 @@ The design focuses on **"Stunning Design"** and **"Advanced Technology"**, mirro
 
 ## 📄 License
 
-[MIT License](LICENSE)
+[Apache License](LICENSE)

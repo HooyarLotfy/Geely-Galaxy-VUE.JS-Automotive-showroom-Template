@@ -2,7 +2,7 @@
 
 A modern, high-performance automotive showroom website built with **Nuxt 3**, featuring immersive animations, glassmorphism design, and a seamless user experience. This project is a complete migration and enhancement of the original static website.
 
-## 🚀 Features
+##  Features
 
 -   **Dynamic Showroom**: Interactive image sliders and feature cards showcasing multiple vehicle models (E8, L380, Star 8, L7, Starship 7).
 -   **Immersive Visuals**: Full-screen video backgrounds and "Technology for a Better Life" video overlays.
@@ -13,7 +13,7 @@ A modern, high-performance automotive showroom website built with **Nuxt 3**, fe
 -   **Responsive Design**: Fully optimized for desktops, tablets, and mobile devices.
 -   **Secure Contact Form**: Built-in contact form with **Zod** validation and a server-side API route (`/api/contact`).
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 -   **Framework**: [Nuxt 3](https://nuxt.com/) (Vue.js 3)
 -   **Styling**: SCSS, CSS Variables
@@ -22,7 +22,7 @@ A modern, high-performance automotive showroom website built with **Nuxt 3**, fe
 -   **Validation**: [Zod](https://zod.dev/)
 -   **Icons**: [Remix Icon](https://remixicon.com/)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 .
@@ -48,7 +48,7 @@ A modern, high-performance automotive showroom website built with **Nuxt 3**, fe
 └── nuxt.config.ts       # Nuxt configuration
 ```
 
-## 📦 Setup & Installation
+##  Setup & Installation
 
 1.  **Clone the repository:**
     ```bash
@@ -72,13 +72,13 @@ A modern, high-performance automotive showroom website built with **Nuxt 3**, fe
     npm run build
     ```
 
-## 🎨 Design Philosophy
+##  Design Philosophy
 
 The design focuses on **"Stunning Design"** and **"Advanced Technology"**, mirroring the brand's identity. Key design elements include:
 -   **Dark Mode Aesthetic**: A sleek, dark theme that highlights the vehicles.
 -   **Typography**: Uses `Montserrat` for headings and `Inter`/`Vazirmatn` for body text to ensure readability and style.
 -   **Interactive Elements**: Hover effects, magnetic buttons, and scroll-driven reveals keep users engaged.
 
-## 📄 License
+##  License
 
 [Apache License](LICENSE)
